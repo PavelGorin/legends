@@ -1,0 +1,12 @@
+.page {
+  max-width: 1440px ;
+  margin: auto;
+  background-color: rgb(168, 218, 247);
+}
+
+@media screen and (max-width: 767px) {
+	.page {
+    width: 340px;
+    background-color: rgb(168, 218, 247);
+	}
+}

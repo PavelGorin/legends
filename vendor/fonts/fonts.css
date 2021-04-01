@@ -1,0 +1,13 @@
+@font-face {
+	src: url("./YandexSansText-Regular.woff2") format("truetype");
+	font-family: 'YandexSans';
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	src: url("./YandexSansDisplay-Bold.woff2") format("truetype");
+	font-family: 'YandexSans';
+	font-weight: 900;
+	font-style: normal;
+}

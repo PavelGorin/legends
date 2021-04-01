@@ -1,0 +1,14 @@
+.legends {
+  padding-top: 35px;
+  margin: auto;
+  font-family: 'YandexSans';
+  font-weight: 900;
+  font-size: 48px;
+  text-align: center;
+}
+
+@media screen and (max-width: 320px) {
+	.legends {
+    max-width: 319px;
+	}
+}
